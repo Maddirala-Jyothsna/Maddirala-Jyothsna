@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maddirala-Jyothsna
-- 👀 I’m interested in new technology
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m @Maddirala-Jyothsna,
+- 👀 I’m interested in new technology,
+- 🌱 I’m still learning many new things.
 - ⚡ Fun fact: I still have a lot to learn
 
 <!---
